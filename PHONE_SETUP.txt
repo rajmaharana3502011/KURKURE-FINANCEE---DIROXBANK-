@@ -1,0 +1,12 @@
+PHONE-ONLY SETUP
+
+1. Extract the ZIP on your phone.
+2. You need to put index.html on a public HTTPS website/host. A static HTML host is enough; no Node.js or npm is needed.
+3. The form already points to FormSubmit and the recipient is rajmaharana350@gmail.com.
+4. On the first real submission, FormSubmit sends an activation/confirmation email to that address. Confirm it. After activation, future submissions are forwarded to the mailbox.
+5. If emails don't appear, check Spam/Junk.
+
+Important:
+- This form is only a demo.
+- Do not collect OTP, PIN, password, CVV, bank-login credentials, or other authentication secrets.
+- UPI IDs are payment identifiers, so only collect them when the person knows what is being collected and why.
